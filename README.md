@@ -1,5 +1,6 @@
-![App Brewery Banner](https://gitlab.com/flutter-apps6033335/dicee/-/raw/master/images/AppBreweryBanner.png)
+![App Brewery Banner](https://github.com/Cfcool100/Images-Flutter-BootCamp/blob/211d17fff88a1f775814764ccfc0e42d6d5482c8/AppBreweryBanner.png)
 
+#FlutterBrew
 
 # Dicee 🎲
 
@@ -12,7 +13,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 A dice app that when we click on any dice it changes face.
 
-![Finished App](https://gitlab.com/flutter-apps6033335/dicee/-/raw/d48759419c34d6136263d33f70754c607c31b83c/images/Dicee-bootCamp-Challenge.gif)
+![Finished App](https://github.com/Cfcool100/Images-Flutter-BootCamp/blob/master/Dicee-bootCamp-Challenge.gif?raw=true)
 
 ## What i learn
 
